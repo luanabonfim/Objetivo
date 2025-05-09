@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo: hsl(289, 53%, 26%);
-    --verde: hsl(290, 57%, 67%);
+    --verde: hwb(290 65% 20%);
     --branco: #FFFFFF;
     --botao-ativo: hsl(261, 46%, 69%);
     --botao-inativo: rgba(58, 55, 94, 0.5);
